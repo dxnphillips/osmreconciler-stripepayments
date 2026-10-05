@@ -1,0 +1,8 @@
+# Never commit downloaded data, settings or secrets
+Output/
+*.csv
+*.json
+*.har
+*.log
+*.clixml
+.env
